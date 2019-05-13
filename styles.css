@@ -1,0 +1,20 @@
+.box {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
+
+#blueBox {
+    background-color: blue;
+    z-index: 1;
+}
+
+#redBox {
+    background-color: red;
+    left: 50%;
+}
+
+img {
+    width:100px;
+    height: 100px;
+}
